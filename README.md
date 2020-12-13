@@ -1,1 +1,1 @@
-Practice tasks for SoftServe IT Academy Java Online Marahon
+Practice tasks for SoftServe IT Academy Java Online Marathon
