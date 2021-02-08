@@ -1,0 +1,11 @@
+<style>
+    nav a { padding: 0 10px; margin-left: -0.3em; }
+    nav a:hover { background-color: lightskyblue;}
+    nav a:not(:last-child) { border-right: 1px solid black; }
+    nav { margin-bottom: 20px; }
+</style>
+<nav>
+    <a href="/home">Home page</a>
+    <a href="/records/create">Add new record</a>
+    <a href="/records/list">Show all records</a>
+</nav>
